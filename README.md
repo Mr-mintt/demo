@@ -1,3 +1,3 @@
 # demo
 trying Github
-Author-Avnish Pathania
+Author-MR Avnish Pathania
